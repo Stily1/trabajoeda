@@ -30,7 +30,5 @@ El paquete limpio no incluye resultados, figuras, clases compiladas ni entornos 
 Para analizar desde cero, primero termina el experimento y después ejecuta `analisis.py`.
 Cada nuevo experimento reemplaza su CSV y el análisis reemplaza sus tablas y gráficas.
 
-## Publicación en GitHub
 
-Descomprime el paquete limpio y sube el contenido de `Codigo_EDA1_Grupo4` al repositorio.
-El archivo `.gitignore` excluye los archivos generados y los entornos virtuales.
+
